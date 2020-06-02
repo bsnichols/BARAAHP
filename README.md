@@ -1,7 +1,12 @@
 # BARAAHP
 R code for paper "Between a rock and a hard place: adaptive sensing and site-specific dispersal" 
-Nichols, B.S., Leubner-Metzger, G. and Jansen, V.A.A.
+Nichols, B.S., Leubner-Metzger, G. and Jansen, V.A.A.(DOI:10.1111/ele.13564)
+
+Licence: CC-BY (https://creativecommons.org/licenses/by/4.0/)
+
 Any problems, email: bethany.nichols.2017@live.rhul.ac.uk
+
+Cite: Nichols, B.S., Leubner-Metzger, G. and Jansen, V.A.A. (2020). Between a rock and a hard place: adaptive sensing and site-specific dispersal. Ecology Letters.
 
 In this folder you will find the R script "BetweenARockAndAHardPlace.R"
 To run the R script, you will need packages "cowplot" and "reshape 2". This is a bit of an interactive code, so if you want plots to save at each point, you will need to switch on the sections as listed below.
