@@ -6,8 +6,6 @@ Licence: CC-BY (https://creativecommons.org/licenses/by/4.0/)
 
 Citation: Nichols, B.S., Leubner-Metzger, G. and Jansen, V.A.A. (2020). Between a rock and a hard place: adaptive sensing and site-specific dispersal. Ecology Letters.
 
-Any problems, email: bethany.nichols.2017@live.rhul.ac.uk
-
 In this folder you will find the R script "BetweenARockAndAHardPlace.R"
 To run the R script, you will need packages "cowplot" and "reshape 2". This is a bit of an interactive code, so if you want plots to save at each point, you will need to switch on the sections as listed below.
 
@@ -18,3 +16,5 @@ FunB is runs FunA, changing d1 and d2 each time and recoding the max fitness Q. 
 FunC produces Fig. 4 by maping the max Q from FunB and mapping the corresponding d1 and d2 against fecundity of sub-habitat S2. It records the zones produced (as shown in the main manuscript) and outputs these. I switch off the plot when I run FunD() (lines 144-187)
 
 FunD produces Fig. 5 by running FunC at a range of severities and plots the change in zones as outputted by Fig. 4. 
+
+Any problems, email: bethany.nichols.2017@live.rhul.ac.uk
