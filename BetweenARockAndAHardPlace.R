@@ -16,7 +16,7 @@ FunA <- function(d1 = 0.2, d2 = 0.2, S1 = 18,
                  S2 = 21, m = 0.76, v = 21, f1 = 5, c = 0.1) {
   
   ## setting up the environment with a population of 1 in each sub-habitat
-  N <- c(1, 1)
+  N <- c(1, 1) #starting population sizes
   Q <- 0
   f <- f1
   
